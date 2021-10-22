@@ -1,6 +1,5 @@
 # Angular Contributors List #
 
-I have finished requested assement via upwork.
 Live version can be found here : [http://161.97.81.17:9090/](http://161.97.81.17:9090/)
 
 Project is separated on two sides:
